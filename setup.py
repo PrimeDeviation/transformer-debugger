@@ -8,7 +8,7 @@ setup(
     install_requires=[
         "aiohttp",
         "click",
-        "fastapi==0.97",
+        "fastapi==0.109.1",
         "fire",
         "httpx>=0.22",
         "mypy==1.7.1",
